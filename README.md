@@ -30,11 +30,11 @@ This project analyzes historical retail sales data for a global automotive produ
 - What is the order cancellation rate?
 
 ## Key Insights
--Revenue is concentrated in a small number of product lines, particularly Classic ---Cars and Vintage Cars.
--The EMEA and North America regions contribute the majority of total revenue.
--Sales exhibit seasonal patterns with higher performance in specific months and quarters.
--A small group of customers accounts for a significant portion of total revenue.
--Order cancellations exist but represent a relatively small share of total orders.
+- Revenue is concentrated in a small number of product lines, particularly Classic Cars and Vintage Cars.
+- The EMEA and North America regions contribute the majority of total revenue.
+- Sales exhibit seasonal patterns with higher performance in specific months and quarters.
+- A small group of customers accounts for a significant portion of total revenue.
+- Order cancellations exist but represent a relatively small share of total orders.
 
 ## Deliverables
 - Cleaned dataset
