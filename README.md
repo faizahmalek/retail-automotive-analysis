@@ -13,12 +13,12 @@ This project analyzes historical retail sales data for a global automotive produ
 - Excel  – data exploration & cleaning
 - SQLite – SQL analysis
 - Power BI – data visualization & dashboard
-- PowerPoint – business presentation
+- Google Slides – business presentation
 
 ## Project Workflow
 1. Data exploration and quality assessment
 2. Data cleaning and preparation
-3. SQL-based sales analysis
+3. SQL-based sales analysis (basic and advanced queries)
 4. Dashboard creation and visualization
 5. Business insights and recommendations
 
@@ -30,10 +30,11 @@ This project analyzes historical retail sales data for a global automotive produ
 - What is the order cancellation rate?
 
 ## Key Insights
-- Revenue is concentrated in a few product lines
-- Certain regions consistently outperform others
-- Sales show clear seasonal trends
-- A small group of customers contributes a large share of revenue
+-Revenue is concentrated in a small number of product lines, particularly Classic ---Cars and Vintage Cars.
+-The EMEA and North America regions contribute the majority of total revenue.
+-Sales exhibit seasonal patterns with higher performance in specific months and quarters.
+-A small group of customers accounts for a significant portion of total revenue.
+-Order cancellations exist but represent a relatively small share of total orders.
 
 ## Deliverables
 - Cleaned dataset
@@ -41,7 +42,10 @@ This project analyzes historical retail sales data for a global automotive produ
 - Interactive Power BI dashboard
 - Business report and presentation
 
-## Future Improvements
-- Customer segmentation
-- Predictive sales forecasting
-- Automated data pipeline
+## Limitations & Future Improvements
+- The dataset covers a limited time range (2003–2005), with incomplete data for the final year.
+- Customer segmentation and lifetime value analysis could provide deeper insights.
+- Future improvements may include predictive sales forecasting and automation of the analysis process.
+
+## Author
+- Nur Faizah Abd Malek
