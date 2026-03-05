@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis (2003–2005)
+# Automotive Retail Sales Performance Analysis (2003–2005)
 
 ## Project Objective
 This project analyzes historical retail sales data for a global automotive products company to support strategic decisions on product focus, regional performance, and customer retention.
